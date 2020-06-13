@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eab7819b-1429-47f0-972f-d5f75a4572ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1almX0A57AhBBR6fOtloXGJQ7Ud" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-13" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.CriptografiaCesarianaTest">
+    <configuration name="CriptografiaCesarianaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.CriptografiaCesarianaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-6" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.java-6" />
+      <item itemvalue="Gradle.CriptografiaCesarianaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CriptografiaCesarianaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab7819b-1429-47f0-972f-d5f75a4572ce" name="Default Changelist" comment="" />
+      <created>1587318590586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587318590586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587320223308">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587320223308" />
+    <state x="92" y="92" width="1096" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587320993454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="92" y="92" width="1096" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1587320993454" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1587328295274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587328295274" />
+    <state width="1236" height="110" key="GridCell.Tab.0.bottom" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.0.center" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.0.left" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.0.right" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.1.bottom" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.1.center" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.1.left" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+    <state width="1236" height="110" key="GridCell.Tab.1.right" timestamp="1587343100521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="110" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587343100521" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
